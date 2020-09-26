@@ -26,6 +26,8 @@
 
 .App-link {
   color: #61dafb;
+  font-family: "Bauhaus 93";
+  font-size: 40px;
 }
 
 @keyframes App-logo-spin {
