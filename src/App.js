@@ -1,8 +1,8 @@
 import React from 'react';
-import './App.css';
-import db from './firebase/config';;
 import { MuiThemeProvider } from '@material-ui/core/styles';
 import theme from './configStyles';
+import './App.css';
+//import db from './firebase/config';;
 
 function App() {
   return (
